@@ -4,7 +4,7 @@ This repository contains the backup of the old WhatsApp bot project, **WA BOT 2.
 
 ## Project Overview
 
-WA BOT 2.0 was created to automate various tasks and interactions with WhatsApp using a bot. It was developed using Node.js, integrating with the [whatsapp-web.js](https://wwebjs.dev/) API, and features functionality such as sending automated messages, responding to commands, managing users, and more.
+WA BOT 2.0 was created to automate various tasks and interactions with WhatsApp using a bot. It was developed using Node.js, integrating with the [whatsapp-web.js](https://wwebjs.dev/), and features functionality such as sending automated messages, responding to commands, managing users, and more.
 
 ## Features
 
